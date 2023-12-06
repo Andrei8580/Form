@@ -1,1 +1,1 @@
-https://github.com/Andrei8580/Form/index.html/
+https://andrei8580.github.io/Form/
